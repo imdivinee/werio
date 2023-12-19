@@ -10,6 +10,13 @@ Werio provides weather information for cities. The current supported command is 
 
 ### Prerequisites
 
+Clone the repository:
+
+```bash
+git clone https://github.com/divinewrites/werio.git
+cd werio
+```
+
 Before running the bot, you need to set up your Discord bot token and OpenWeatherMap API key as environment variables.
 
 ```bash
